@@ -11,7 +11,7 @@ Individual Project for Data Science
  * Jupyter Notebook / Any IDE 
 
 # Features
-Contains information from the Virtual Youtuber using the csv from the Kaggle dataset to see and analyse what makes a content creator more popular than another. The project shows the correlation of the agency they are at, their current subscriber count(when the data was taken), as well as other statistics such as the amount of likes and their views they get per video or livestream. 
+Contains information from the Virtual Youtuber(Vtuber) using the csv from the Kaggle dataset to see and analyse what makes a content creator more popular than another. The project shows the correlation of the agency they are at, their current subscriber count(when the data was taken), as well as other statistics such as the amount of likes and their views they get per video or livestream. 
 
 # Results
  * Analysis of the popularity of Virtual Youtuver
