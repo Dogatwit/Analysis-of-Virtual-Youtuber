@@ -24,5 +24,7 @@ Contains information from the Virtual Youtuber using the csv from the Kaggle dat
 Sources: Data were pulled from Kaggle.com 
 
 Dataset - Kaggle
+
 https://www.kaggle.com/search
+
 https://www.kaggle.com/datasets/maliqr/vtuber-like-views-and-subscriber-data
